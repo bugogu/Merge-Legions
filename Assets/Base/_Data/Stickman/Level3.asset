@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85de5e4061fa8ca4eae77ff45842450d, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  attackType: 0
+  weaponPrefab: {fileID: 5588773855788203695, guid: 72cb83c2770810c46a155c38c73924f8,
+    type: 3}
+  stickmanMaterial: {fileID: 2100000, guid: 10054fbc6690d1a44a9d2e58fc7813ef, type: 2}
+  scaleMultiplier: 1.12

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4800357d61bd2de45947e5e4beac1b05, type: 3}
+  m_Name: Enemy1
+  m_EditorClassIdentifier: 
+  health: 12
+  damageValue: 2
+  runSpeed: 7
+  minScaleMultiplier: 0.5
+  maxScaleMultiplier: 1
+  rewardValue: 1
+  hitMat: {fileID: 2100000, guid: 4319846c0c211d349bced0ac861fca81, type: 2}
+  deathVFX: {fileID: 4787146697146794734, guid: e9050f838eb01db44b8958e4d8266866,
+    type: 3}
